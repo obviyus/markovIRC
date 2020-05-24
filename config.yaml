@@ -1,0 +1,5 @@
+botname: markovbot
+server: irc.darkscience.net:6697
+channel: #bots
+tls: true
+insecuretls: false
